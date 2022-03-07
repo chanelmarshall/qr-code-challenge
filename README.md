@@ -19,8 +19,7 @@ My goal with this challenge was to test my foundational knowledge in HTML5 and C
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://chanelmarshall.github.io/qr-code-challenge/)
 
 ## My process
 
