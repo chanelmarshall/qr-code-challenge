@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+}
+
+img {
+  height: 240px;
+  border-radius: 10px;
+}
+
+h3 {
+  font-weight: 700;
+  padding: 0 5px;
+}
+
+p {
+  font-size: 13px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  padding: 0 10px;
+}
+
+
+/* QR Code Section */
+.qr-scan {
+  background-color: hsl(0, 0%, 100%);
+  width: 250px;
+  padding: 12px 8px 20px;
+  border-radius: 15px;
+  margin: 75px auto;
+  box-shadow: -10px 10px 6px hsl(212, 45%, 88%);
+}
+
+/* Attribution Section */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* Responsiveness */
+@media (max-width: 375px) {
+  img {
+    height: 280px;
+  }
+
+  h3 {
+    padding: 0 25px;
+    font-size: 20px;
+  }
+
+  p {
+    font-size: 15px;
+    padding: 0 25px;
+  }
+
+  .qr-scan {
+    width: 300px;
+    padding-top: 20px;
+  }
+}
